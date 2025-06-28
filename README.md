@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishustle" alt="vishustle" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at [https://vishustle.github.io/](https://vishustle.github.io/)
-
-- 💬 Ask me about **Python**
 
 - 📫 How to reach me **vishnuraju15@gmail.com**
 
